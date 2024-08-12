@@ -35,3 +35,17 @@ div {
     margin-left: 10px;
     margin-top: 7px;
 }
+
+a {
+    color: orangered;
+}
+
+li {
+    list-style-type: none; 
+    font-size: large;
+}
+
+ul {
+    padding-left: 10px;
+
+}
