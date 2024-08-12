@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+}
+
+#input-el {
+    box-sizing: border-box;
+    min-width: 400px;
+    border: 1px solid orangered;
+    display: block;
+    padding: 10px;
+    font-size: large;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+#input-btn, #tab-btn {
+    background: orangered;
+    color: white;
+    font-weight: bold;
+    padding: 10px 20px;
+    border: 0;
+    border: 1px solid orangered;
+}
+
+#delete-btn {
+    background: white;
+    color: orangered;
+    font-weight: bold;
+    padding: 10px 20px;
+    border: 1px solid orangered;
+}
+
+div {
+    margin-left: 10px;
+    margin-top: 7px;
+}
