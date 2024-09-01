@@ -30,7 +30,7 @@ tabBtn.addEventListener("click", function() {
 inputBtn.addEventListener("click", function() {
 
     myleads.push(inputEl.value)
-    localStorage.setItem("myleads", JSON.stringify(myleads) )
+    localStorage.setItem("myleads", JSON.stringify(myleads) )   
     render(myleads)
     inputEl.value = ""
 })
